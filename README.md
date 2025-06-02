@@ -23,7 +23,7 @@
 * [lesson3_step4_Alerts.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/lesson3_step4_Alerts.py)<br>
 * [lesson3_step6_New_Tab_PAGE.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/lesson3_step6_New_Tab_PAGE.py)<br>
 * [lesson4_step8_Explicit_Wait.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/lesson4_step8_Explicit_Wait.py)<br>
-* [ggwp.txt ](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt)<br>
+* <a href="https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt" style="color: aqua; text-decoration: none;">ggwp.txt</a><br>
 
 *В дубущем будет добавлена информация о следующих авто тестах.*
 
