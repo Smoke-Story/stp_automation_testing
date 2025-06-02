@@ -1,5 +1,6 @@
 # stp_automation_testing
-Automations tests of stepik tasks
+Automations tests of stepik tasks<br>
+Содержание репозитория:
 
 # m_1: Файлы авто-тестов первого модуля
 
