@@ -1,9 +1,9 @@
 # stp_automation_testing
 Automations tests of stepik tasks
 # some strings:
-Hola everyone guys! New string was added :)
-Have a good day!
+Hola everyone guys! New string was added :)<br>
+Have a good day!<br>
 =)
-Цитата:
-«Можно сделать довольно большой проект, вообще не прикасаясь к мыши. Но зачем?».
-Алан Кёртис Кэй(с)
+Цитата:<br>
+«Можно сделать довольно большой проект, вообще не прикасаясь к мыши. Но зачем?».<br>
+Алан Кёртис Кэй (с)
