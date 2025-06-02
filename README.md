@@ -4,3 +4,6 @@ Automations tests of stepik tasks
 Hola everyone guys! New string was added :)
 Have a good day!
 =)
+Цитата:
+«Можно сделать довольно большой проект, вообще не прикасаясь к мыши. Но зачем?».
+Алан Кёртис Кэй(с)
