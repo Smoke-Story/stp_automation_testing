@@ -33,4 +33,4 @@ def test_add_to_basket_button_any_language(browser):
     check_button = browser.find_element(By.CSS_SELECTOR, "button.btn-add-to-basket").text  # текст кнопки
 
     assert languages[country] == check_button   # проверка текста кнопки с текстом из словаря
-    sleep(5) # 5 сек, что бы успеть глянуть на языковую версию :)
+    sleep(5) # 5 сек. что бы успеть глянуть на языковую версию :)
