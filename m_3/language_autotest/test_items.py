@@ -26,6 +26,7 @@ def test_add_to_basket_button_any_language(browser):
         "uk": 'Додати в кошик',
         "zh-hans": 'Add to basket'
     }
+    browser.implicitly_wait(2)
     browser.get("http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/")
     browser.find_element(By.CSS_SELECTOR, "button.btn-add-to-basket")
 
