@@ -25,5 +25,10 @@
 * [lesson4_step8_Explicit_Wait.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/lesson4_step8_Explicit_Wait.py)<br>
 * <a href="https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt" style="color: aqua; text-decoration: none;">ggwp.txt</a><br>
 
-*В дубущем будет добавлена информация о следующих авто тестах.*
+### m_3: Файлы авто-тестов третьего модуля
+ #### language_autotest
+* [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
+* [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
+>>>
+ *В дубущем будет добавлена информация о следующих авто тестах.*
 
