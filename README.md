@@ -26,7 +26,7 @@
 * <a href="https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt" style="color: aqua; text-decoration: none;">ggwp.txt</a><br>
 
 ### m_3: Файлы авто-тестов третьего модуля
- #### check_button_language_autotest
+#### check_button_language_autotest
 * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
 * [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
 ---
