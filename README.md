@@ -26,8 +26,25 @@
 * <a href="https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt" style="color: aqua; text-decoration: none;">ggwp.txt</a><br>
 
 ### 📁 m_3: Файлы авто-тестов третьего модуля
-###### check_button_language_autotest
-* [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
-* [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
+> ###### 📂 check_button_language_autotest
+> * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
+> * [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
+* [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/conftest.py)<br>
+* [lesson2_step10_test_abs_project.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/lesson2_step10_test_abs_project.py)<br>
+* [login.txt](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/login.txt)<br>
+* [test_m3_lesson2_step13_unittests.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson2_step13_unittests.py)<br>
+* [test_m3_lesson3_step9_exceptions.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson3_step9_exceptions.py)<br>
+* [test_m3_lesson4_step2_Fixture1.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson4_step2_Fixture1.py)<br>
+* [test_m3_lesson4_step3_Fixture2.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson4_step3_Fixture2.py)<br>
+* [test_m3_lesson4_step4_fixture_yield.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson4_step4_fixture_yield.py)<br>
+* [test_m3_lesson4_step5_fixture_scope.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson4_step5_fixture_scope.py)<br>
+* [test_m3_lesson4_step6_fixture_autouse.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson4_step6_fixture_autouse.py)<br>
+* [test_m3_lesson5_step2_marks.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson5_step2_marks.py)<br>
+* [test_m3_lesson6_step3_parametrize.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step3_parametrize.py)<br>
+* [test_m3_lesson6_step5_Autorization.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step5_Autorization.py)<br>
+* [test_m3_lesson6_step7_addoption.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step7_addoption.py)<br>
+* [test_m3_lesson6_step8_Plugins_RerunFailures.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step8_Plugins_RerunFailures.py)<br>
+* [test_m3_lesson6_step9_language_options.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step9_language_options.py)<br>
+
 ---
  *В дубущем будет добавлена информация о следующих авто тестах.*
