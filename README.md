@@ -41,7 +41,6 @@
 * [test_m3_lesson6_step5_Autorization.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step5_Autorization.py)<br>
 * [test_m3_lesson6_step7_addoption.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step7_addoption.py)<br>
 * [test_m3_lesson6_step8_Plugins_RerunFailures.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step8_Plugins_RerunFailures.py)<br>
-* [test_m3_lesson6_step9_language_options.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step9_language_options.py)<br>
 > ###### 📂 test_m3_lesson6_step9_language_options
 > * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
 > * [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
