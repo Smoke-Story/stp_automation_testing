@@ -26,9 +26,6 @@
 * <a href="https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_2/ggwp.txt" style="color: aqua; text-decoration: none;">ggwp.txt</a><br>
 
 ### 📁 m_3: Файлы авто-тестов третьего модуля
-> ###### 📂 check_button_language_autotest
-> * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
-> * [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
 * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/conftest.py)<br>
 * [lesson2_step10_test_abs_project.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/lesson2_step10_test_abs_project.py)<br>
 * [login.txt](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/login.txt)<br>
@@ -45,6 +42,8 @@
 * [test_m3_lesson6_step7_addoption.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step7_addoption.py)<br>
 * [test_m3_lesson6_step8_Plugins_RerunFailures.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step8_Plugins_RerunFailures.py)<br>
 * [test_m3_lesson6_step9_language_options.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/test_m3_lesson6_step9_language_options.py)<br>
-
+> ###### 📂 test_m3_lesson6_step9_language_options
+> * [conftest.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/conftest.py)<br>
+> * [test_items.py](https://github.com/Smoke-Story/stp_automation_testing/blob/main/m_3/language_autotest/test_items.py)<br>
 ---
  *В дубущем будет добавлена информация о следующих авто тестах.*
